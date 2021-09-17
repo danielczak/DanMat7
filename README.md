@@ -20,8 +20,7 @@ Recent Project:
 
 I wanted to build a digital resting place using react. Here you can grow flowers in your garden.  
 
-<p align="center">
-  <img src="Gif_4_1" alt="animated" />
-</p>
 
-![Gif_4_1](https://user-images.githubusercontent.com/74862595/133743433-706008ee-dc58-470a-bb41-158b99b18409.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74862595/133743433-706008ee-dc58-470a-bb41-158b99b18409.gif" alt="animated" />
+</p>
