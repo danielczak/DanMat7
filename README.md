@@ -22,5 +22,5 @@ I wanted to build a digital resting place using react. Here you can grow flowers
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74862595/133743433-706008ee-dc58-470a-bb41-158b99b18409.gif" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/74862595/133743433-706008ee-dc58-470a-bb41-158b99b18409.gif" alt="animated"  width="500"/>
 </p>
