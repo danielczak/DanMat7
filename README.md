@@ -17,7 +17,7 @@ Recent Project:
 
 ![LiliasGarden](https://user-images.githubusercontent.com/74862595/133488026-4e5c76c2-abca-4c36-906b-a155d91b2f36.jpg)
 
-I wanted to build a digital resting place using react. Here you can grow flowers in your garden.
+I wanted to build a digital resting place using react. Here you can grow flowers in your garden.\
 
 
 ![Gif_4_1](https://user-images.githubusercontent.com/74862595/133743433-706008ee-dc58-470a-bb41-158b99b18409.gif)
